@@ -13,3 +13,4 @@ print("Not Risky")
 apple_gross = 75
 pie_gross = 100
 total_gst = (apple_gross/100*10) + (pie_gross/100*8)
+print(total_gst)
